@@ -1,0 +1,1 @@
+This website is a personal project where I showcase my journey in web development and version control using Git.
